@@ -24,28 +24,6 @@ header-includes:
  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 ---
 
-# Информация
-
-## Докладчик
-
-:::::::::::::: {.columns align=center}
-::: {.column width="70%"}
-
-  * Кулябов Дмитрий Сергеевич
-  * д.ф.-м.н., профессор
-  * профессор кафедры прикладной информатики и теории вероятностей
-  * Российский университет дружбы народов
-  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
-  * <https://yamadharma.github.io/ru/>
-
-:::
-::: {.column width="30%"}
-
-![](./image/kulyabov.jpg)
-
-:::
-::::::::::::::
-
 # Элементы презентации
 
 ## Актуальность
