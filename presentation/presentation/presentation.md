@@ -26,8 +26,6 @@ header-includes:
  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 ---
 
-# Информация
-
 ## Докладчик
 
 :::::::::::::: {.columns align=center}
